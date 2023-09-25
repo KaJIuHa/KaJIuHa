@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Учился самостоятельно и с преподавателем,проходил интенсивы,на курсах обучение не проходил. Начинал я в 2022, пройдя интенсивы по курсу Python. Затем начал активно продвигаться в данном направлении. Более годаработая на фрилансе,основное направление разработка и сопровождение сложных телеграм ботов,ботов парсеров. Мой стэк: Python, знание ООП и базовые шаблоны проектирования,базовые алгоритмы, SQL(SQLite3, PostgreSQL, SQLAlchemy),aiogram,Django,Async,Aiohttp,REST api,Docker,Git(Gitbash),Flask(пару раз трогал)
+Я начинающий backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.Учился самостоятельно и с преподавателем,проходил интенсив. На курсах обучение не проходил. Начинал  в 2022, пройдя интенсивы по курсу Python. Затем начал активно продвигаться в данном направлении. Более года работаю на фрилансе, основное направление разработка и сопровождение сложных телеграм ботов, ботов парсеров. Мой стэк: Python, знание ООП и базовые шаблоны проектирования, базовые алгоритмы, SQL(SQLite3, PostgreSQL, SQLAlchemy),aiogram, Django, Async, Aiohttp, REST api, Docker, Git(Gitbash), Flask(пару раз трогал)
 
 <p align="center">
  <img src="assets/icon/github-snake.svg" alt="snake" width="600">
